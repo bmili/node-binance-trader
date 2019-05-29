@@ -1,0 +1,10 @@
+npm ERR! path /usr/lib/node_modules/.staging/node-binance-trader-042c8784/node_modules/accepts
+npm ERR! code ENOENT
+npm ERR! errno -2
+npm ERR! syscall rename
+npm ERR! enoent ENOENT: no such file or directory, rename '/usr/lib/node_modules/.staging/node-binance-trader-042c8784/node_modules/accepts' -> '/usr/lib/node_modules/.staging/accepts-3b7c53a8'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/bitnami/.npm/_logs/2019-05-29T13_20_52_651Z-debug.log
